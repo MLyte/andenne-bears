@@ -14,7 +14,7 @@
 
 1. **Protection de passe :** Franck, Greg, les coachs de ligne et Mathieu doivent choisir une règle commune simple pour la ligne, le RB et le QB. Les variantes discutées ne sont pas encore des consignes validées.
 2. **Coordination de l’attaque :** Franck et Mathieu doivent préciser qui décide des concepts, du rythme d’installation et des adaptations aux joueurs disponibles.
-3. **DB :** Greg, Serge et Antoine doivent harmoniser les fondamentaux et les consignes données d’une séance à l’autre.
+3. **DB :** Greg, Serge et Antoine Gaubbe-Maudou doivent harmoniser les fondamentaux et les consignes données d’une séance à l’autre.
 4. **Juniors–Seniors :** Franck et Stéphane doivent comparer les formations et les appels de base. Les deux staffs doivent confirmer la première séance commune envisagée le **16 octobre**, son horaire et le cadre du contact.
 
 Pour les sujets qui touchent plusieurs postes, consigner le choix retenu et diffuser ensuite **une consigne commune** aux joueurs. Jean-Mathieu a été sollicité pour créer un espace réservé aux informations utiles au coaching.

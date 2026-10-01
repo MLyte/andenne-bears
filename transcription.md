@@ -3,8 +3,11 @@
 **Date :** 1er octobre 2026  
 **Source :** `2026-10-01 20-44-02.mkv` (1 h 56 min 49 s)  
 **Repère :** les horodatages commencent au début du fichier.  
-**Voix relevées :** Mathieu, Franck, Antoine, Marc, Jean-Mathieu et Stéphane.  
+**Voix relevées :** Mathieu, Franck, Antoine Gaubbe-Maudou, Marc, Jean-Mathieu et Stéphane.
+
 **Ordre du jour :** https://mathieuluyten.notion.site/R-union-Discord-3eb74969d86280918721c51b06eb9f01?pvs=74
+
+**Deux Antoine :** Antoine Gaubbe-Maudou participe au vocal comme coach. Antoine Clarinval, responsable de l’événement, n’y participe pas : les mentions de l’Antoine absent à relancer pour le lieu du camp et de l’auteur de l’idée de la journée du 25 le concernent. Les paroles retranscrites ci-dessous restent inchangées.
 
 > Transcription assistée par reconnaissance vocale, relue sur les principaux thèmes et décisions. Les prénoms sont attribués à partir de la voix et des échanges explicites. « Voix incertaine » signale une attribution insuffisamment sûre. Les chevauchements, termes techniques et passages très brefs demandent une vérification dans l’enregistrement avant toute citation littérale.
 
@@ -12,7 +15,7 @@
 
 - **Entraînements :** introduire le contact progressivement (équipement, gestes, blocage, plaquage contrôlé). Réduire les agility drills à environ 5–10 minutes pour consacrer plus de temps au travail par poste, aux situations de jeu et à de courtes séquences de special teams. Leur démarrage est visé pour le **15 octobre** ; le référent reste à désigner.
 - **Préparation sportive :** chaque coach doit lister, pour son poste, les acquis indispensables avant le premier match, ce qui doit être répété et ce qui peut attendre. Préparer un premier depth chart en attaque et en défense à partir des entraînements, puis le faire évoluer. Le vocal ne fixe pas de plans détaillés par poste.
-- **Cohérence des consignes :** arrêter entre responsables une protection de passe simple et commune pour la ligne, le RB et le QB ; clarifier l’autonomie de Franck sur l’attaque ; harmoniser les consignes données aux DB par Greg, Serge et Antoine. Ces points restent ouverts à la fin de l’appel.
+- **Cohérence des consignes :** arrêter entre responsables une protection de passe simple et commune pour la ligne, le RB et le QB ; clarifier l’autonomie de Franck sur l’attaque ; harmoniser les consignes données aux DB par Greg, Serge et Antoine Gaubbe-Maudou. Ces points restent ouverts à la fin de l’appel.
 - **Juniors et Seniors :** Franck et Stéphane doivent comparer formations et appels de base. Une séance commune mensuelle est envisagée, avec un premier essai le **16 octobre** ; date, horaire et encadrement du contact demandent confirmation des deux staffs. La participation d’un Junior aux Seniors se décide au cas par cas.
 - **Camp Seniors–Juniors :** projet d’un week-end avec ateliers par poste, moment commun et éventuel match amical. Aucun week-end, lieu, adversaire ou budget n’est arrêté ; vérifier d’abord calendrier, disponibilités et transport.
 - **Journée familiale du 25 octobre :** proposer un mini-tournoi de flag avant la diffusion du match, puis permettre une inscription individuelle pour jouer, regarder et/ou manger. Les organisateurs pourraient composer les équipes. Formule, repas, horaires et couverture des non-licenciés restent à valider avant l’annonce.
@@ -84,7 +87,7 @@
 
 **[00:08:55] Mathieu :** Ouais. Non mais ok, mais... Je vous écoute.
 
-**[00:08:59] Antoine :** Moi, je voulais juste dire qu'en fait, de mon point de vue, en termes organisationnels, c'est bien d'avoir les dates super tôt, parce qu'il y a plus les marmots, et les localisations. En fait, moi, je serais chaud de venir évidemment tout le week-end aussi, mais ça dépendra aussi de...
+**[00:08:59] Antoine Gaubbe-Maudou :** Moi, je voulais juste dire qu'en fait, de mon point de vue, en termes organisationnels, c'est bien d'avoir les dates super tôt, parce qu'il y a plus les marmots, et les localisations. En fait, moi, je serais chaud de venir évidemment tout le week-end aussi, mais ça dépendra aussi de...
 
 **[00:09:14] Mathieu :** Qu'est-ce que vous pensez au niveau des dates ? Parce que je suis d'accord avec vous, mais en fait, de 1, tout dépend du début du championnat, qu'on ne sait pas, et 2, j'ai envie d'éviter un maximum les périodes compliquées, à savoir fin d'année, parce que c'est les fêtes, et les vacances qui sont pour moi du 15 décembre au 10 janvier, facile quoi. Donc c'est pour ça que je te propose début décembre, parce que voilà, il fait froid, mais voilà, on mord ça chic, et ça, c'est un camp d'entraînement, et on va faire un jogging le matin tôt, on bat les couilles, ou alors, en fonction du début du championnat, deuxième partie du mois de janvier. Mais Jean-Mathieu, t'en savais-tu par rapport au championnat ? Non.
 
@@ -106,11 +109,11 @@
 
 **[00:11:18] Marc (probable) :** Alors, 4, 5, 6, ça va être compliqué si dans tes joueurs t'as des papas.
 
-**[00:11:23] Antoine (probable) :** Ok.
+**[00:11:23] Antoine Gaubbe-Maudou (probable) :** Ok.
 
 **[00:11:24] Mathieu :** C'est Nicolas, c'est mort. D'accord. Donc plutôt, attendez, parce que du coup j'ai pas le moment fin février, mais on va réouvrir. Donc plutôt 11, 12, 13 décembre et 18, 19, 20, ou on laisse tomber 18, 19, 20 ? Pas d'avis. Pas d'avis. Bah je le note quand même alors du coup. Ouais. Ouais, on propose là. Attendez, 11, 18, 19, 20.
 
-**[00:11:49] Antoine :** C'est juste le début des vacances, voir s'il y a des gens qui partent ou tout comme ça, tu vois.
+**[00:11:49] Antoine Gaubbe-Maudou :** C'est juste le début des vacances, voir s'il y a des gens qui partent ou tout comme ça, tu vois.
 
 **[00:11:53] Voix incertaine :** Ouais, je suis d'accord avec toi, je suis d'accord avec toi, je suis d'accord avec toi.
 
@@ -118,7 +121,7 @@
 
 **[00:12:03] Voix incertaine :** Si on prend à partir de...
 
-**[00:12:04] Antoine :** À partir du 15, moi ça parait correct.
+**[00:12:04] Antoine Gaubbe-Maudou :** À partir du 15, moi ça parait correct.
 
 **[00:12:06] Voix incertaine :** 15, 16, 17. Ouais.
 
@@ -126,13 +129,13 @@
 
 **[00:12:16] Mathieu :** Ouais, ouais, je suis d'accord, je suis entièrement d'accord avec toi, mais je pense que c'est à cette période-là qu'on aura le plus de gens, tout en maximisant la... tu vois ? Je suis d'accord avec toi, c'est pour ça que j'essaie d'éviter justement les... Et alors la semaine d'après, c'est du coup 22...
 
-**[00:12:34] Antoine (probable) :** 22, 23, 24. Merci.
+**[00:12:34] Antoine Gaubbe-Maudou (probable) :** 22, 23, 24. Merci.
 
 **[00:12:36] Marc (probable) :** Il faut leur faire transpirer tout à l'heure qu'ils ont pris pendant les réveillons.
 
 **[00:12:41] Mathieu :** Mais oui, c'est un peu le but, tu vois, c'est un peu le but, c'est soit de le faire... Mais je suis d'accord avec toi, voilà. Parfait.
 
-**[00:12:47] Antoine :** Ok. Après les fêtes, c'est une bonne relance, quoi.
+**[00:12:47] Antoine Gaubbe-Maudou :** Ok. Après les fêtes, c'est une bonne relance, quoi.
 
 **[00:12:50] Mathieu :** Mais oui, oui, je suis d'accord avec toi, ça peut être bien, mais tout dépend... Tu vois, tout dépend du championnat. Si le championnat commence le 17 janvier, on va pas faire ça après les fêtes, voilà. Tout à fait. Voilà, mais donc effectivement. Ok, autre chose à dire par rapport à ça ? Parfait. Parfait. Alors, le point 3, c'est la planification sportive jusqu'au prochain match. En fait, ce que j'aimerais surtout, c'est qu'on n'oublie pas quoi que ce soit. Donc l'idée, c'est que chaque coach fasse le plan maintenant de ce qu'il aimerait enseigner pour sa position, ou l'attaque et la défense, jusque le premier match amical, et donc on peut penser au camp, même si j'aimerais bien en faire un avant,
 
@@ -312,7 +315,7 @@
 
 **[00:38:22] Mathieu (probable) :** Oui, il y a quelqu'un, il y a quelqu'un, Antoine, tu veux dire un truc, mais j'aimerais me répondre après, aussi.
 
-**[00:38:26] Antoine (probable) :** Non, c'était Jean-Mathieu, je crois, pardon.
+**[00:38:26] Antoine Gaubbe-Maudou (probable) :** Non, c'était Jean-Mathieu, je crois, pardon.
 
 **[00:38:30] Jean-Mathieu :** C'est pas de neurone. Par contre, Marc, juste une question, est-ce que tu es en train d'écrire un texte, parce qu'à chaque fois, il y a ton micro qui s'active, c'est assez chiant. Est-ce que tu peux juste, genre, te mute, et alors, quand tu veux parler, t'as des mutes ?
 
@@ -376,7 +379,7 @@
 
 **[00:44:52] Mathieu :** et lui donner, fatalement, le rôle de backup dans l'autre côté. Parce que, bien évidemment, si on n'est que 22 au match, on a 11 joueurs sur le terrain, mais on a 11 joueurs sur la sideline qui sont backup des 11 joueurs sur le terrain, bien évidemment. Et si eux, ils ne connaissent pas le taf, ça ne va pas. Mais ça permettrait d'avoir déjà un aperçu. Et je pense que, Franck, c'est ce que tu voulais faire avec les receveurs en tant que Tidal, en tant que receveur écarté, en tant que slot, et peut-être même X et Z, à toi de voir. Mais j'aimerais bien, voilà. Et puis, éventuellement, pouvoir voir les faiblesses qu'on a pour pouvoir éventuellement migrer un joueur, ou lui apprendre autre chose. C'est un peu l'objectif de ce point set.
 
-**[00:45:30] Antoine :** Est-ce que tu avais l'idée de réaliser un combine, un truc comme ça, pour un peu voir ? Parce qu'on se posait la question hier, de se dire, en fait, on n'est pas trop clair sur les joueurs qui sont là, de leurs compétences, ou là où ils seraient bien. Par exemple, hier, je travaillais les DB, j'en avais deux, quatre postes. C'était un peu, j'avais galère. Et donc, on se posait la question de qui pourrait être aussi double emploi.
+**[00:45:30] Antoine Gaubbe-Maudou :** Est-ce que tu avais l'idée de réaliser un combine, un truc comme ça, pour un peu voir ? Parce qu'on se posait la question hier, de se dire, en fait, on n'est pas trop clair sur les joueurs qui sont là, de leurs compétences, ou là où ils seraient bien. Par exemple, hier, je travaillais les DB, j'en avais deux, quatre postes. C'était un peu, j'avais galère. Et donc, on se posait la question de qui pourrait être aussi double emploi.
 
 **[00:45:54] Mathieu :** Je vais te répondre comme un fils de pute, chef d'entreprise, si tu me le permets. À mon sens, ce genre de... Alors, déjà, un, les combines, pour moi, ça n'a jamais servi à rien. C'était juste un entraînement fun qui a fait un peu de team building au début, mais là, pour moi, en octobre, c'est trop tard. Donc, peut-être qu'on aurait dû le faire plus tôt, certes. Et au-delà de ça, on dit toujours qu'on en fait un premier. Ouais, on vous en fera un plus tard, comme ça, on vous comparera. Et jamais on en fait un. Et in fine, bah ouais, c'est cool de faire un L-Drill, mais les joueurs peuvent le faire toujours par les AGD Drills, si on veut leur faire des L-Drills. Ça, c'est mon point de vue 1.
 
@@ -562,7 +565,7 @@
 
 **[01:07:29] Voix incertaine :** Ok, oui,
 
-**[01:07:30] Antoine (probable) :** j'avais les 10 bises,
+**[01:07:30] Antoine Gaubbe-Maudou (probable) :** j'avais les 10 bises,
 
 **[01:07:33] Mathieu :** et Gilles avait les linebackers. Mais du coup, le cadre et le planning de ce qui a été amené était respecté, le position de drills, vous avez fait ce que vous vouliez, ça, c'était correct ?
 
@@ -620,9 +623,9 @@
 
 **[01:12:36] Voix incertaine :** J'aime ?
 
-**[01:12:37] Antoine :** Moi je veux bien rajouter un truc, un tout petit peu vite fait, c'est sur la place de la défense, parce que je voyais, c'était aussi important de ton doc, mais je trouve que c'est quand même important de le finir. En effet, enfin moi, en tant qu'assistant dans les DBs, tu vois, en fait, j'ai eu, depuis que je suis là, deux discussions, une avec Greg, une avec Serge, et en fait, c'était quand même des visions assez différentes, et en fait, je pense que ce serait bien le moment qu'on puisse savoir de Greg, en tout cas, la vision générale, savoir les priorités à travailler aussi. hier avec Gilles, on faisait un petit top ensemble, parce qu'il y avait les Linebaker, et j'avais les DBs,
+**[01:12:37] Antoine Gaubbe-Maudou :** Moi je veux bien rajouter un truc, un tout petit peu vite fait, c'est sur la place de la défense, parce que je voyais, c'était aussi important de ton doc, mais je trouve que c'est quand même important de le finir. En effet, enfin moi, en tant qu'assistant dans les DBs, tu vois, en fait, j'ai eu, depuis que je suis là, deux discussions, une avec Greg, une avec Serge, et en fait, c'était quand même des visions assez différentes, et en fait, je pense que ce serait bien le moment qu'on puisse savoir de Greg, en tout cas, la vision générale, savoir les priorités à travailler aussi. hier avec Gilles, on faisait un petit top ensemble, parce qu'il y avait les Linebaker, et j'avais les DBs,
 
-**[01:13:19] Antoine :** et en fait, on a travaillé des trucs de base, on est reparti un peu de zéro, mais l'idée, c'est de voir un peu vers quoi on va tous ensemble, dans la même... autant que tu vois, par exemple, pour les DBs, moi, je suis là principalement le mercredi, Serge, principalement le vendredi, donc en fait, on va peu se croiser, entre guillemets, et donc c'est quand même pour avoir un genre de... Tu es vrai que toi ? De filet rouge. Et tu vois, alors je disais, tu disais, retour d'entraînement, en fait, je ne sais pas comment ça peut être possible, ni si ça doit être sur le WhatsApp, mais savoir ce qu'ils font quand les autres ne sont pas là, tu vois, est-ce qu'il faudrait faire un genre de...
+**[01:13:19] Antoine Gaubbe-Maudou :** et en fait, on a travaillé des trucs de base, on est reparti un peu de zéro, mais l'idée, c'est de voir un peu vers quoi on va tous ensemble, dans la même... autant que tu vois, par exemple, pour les DBs, moi, je suis là principalement le mercredi, Serge, principalement le vendredi, donc en fait, on va peu se croiser, entre guillemets, et donc c'est quand même pour avoir un genre de... Tu es vrai que toi ? De filet rouge. Et tu vois, alors je disais, tu disais, retour d'entraînement, en fait, je ne sais pas comment ça peut être possible, ni si ça doit être sur le WhatsApp, mais savoir ce qu'ils font quand les autres ne sont pas là, tu vois, est-ce qu'il faudrait faire un genre de...
 
 **[01:13:51] Voix incertaine :** Moi,
 
@@ -634,7 +637,7 @@
 
 **[01:15:15] Voix incertaine :** de faire des choses. Non, non,
 
-**[01:15:16] Antoine :** non, non, mais après, c'est bien que tu vois, Greg, Whatsapp et tout, il y a trop de groupes dans toute chose, donc je ne sais pas si Whatsapp sera préjudicieux, mais l'idée,
+**[01:15:16] Antoine Gaubbe-Maudou :** non, non, mais après, c'est bien que tu vois, Greg, Whatsapp et tout, il y a trop de groupes dans toute chose, donc je ne sais pas si Whatsapp sera préjudicieux, mais l'idée,
 
 **[01:15:26] Mathieu :** c'est de poser une discussion de base, de rassembler des gens, de mettre un message de base via un canal qui est normalement utilisé par tout le monde pour au moins poser un sondage pour une réunion présentielle ou discute. Tu vois, je me dis que c'est peut-être mieux. Bref, c'est un point de départ.
 
@@ -642,7 +645,7 @@
 
 **[01:15:45] Mathieu (probable) :** Tu as autre chose à dire, Antoine ?
 
-**[01:15:47] Antoine :** Non. Je crois juste que c'était bien hier. En tout cas, de se piter en plus petit groupe, c'était sympa.
+**[01:15:47] Antoine Gaubbe-Maudou :** Non. Je crois juste que c'était bien hier. En tout cas, de se piter en plus petit groupe, c'était sympa.
 
 **[01:15:55] Mathieu :** Est-ce que quelqu'un a quelque chose d'encore à dire ? Parce qu'il y a encore un dernier point que j'ai ajouté, mais ça n'a rien à faire. Du coup,
 
