@@ -18,7 +18,7 @@
 - **Journée familiale du 25 octobre :** proposer un mini-tournoi de flag avant la diffusion du match, puis permettre une inscription individuelle pour jouer, regarder et/ou manger. Les organisateurs pourraient composer les équipes. Formule, repas, horaires et couverture des non-licenciés restent à valider avant l’annonce.
 - **Communication du staff :** réserver un espace aux informations utiles aux coachs, consigner les arbitrages techniques et transmettre ensuite une consigne commune aux joueurs. Jean-Mathieu a été sollicité pour créer ce groupe.
 
-Pour une version courte destinée aux coachs, voir [la synthèse](synthese-coachs.md). Les propositions, décisions et questions encore ouvertes sont distinguées dans [le document de suivi](choix-et-questions-ouvertes.md).
+**À faire :** [liste des actions de la réunion](actions-coachs.md). Pour une version courte destinée aux coachs, voir [la synthèse](synthese-coachs.md). Les propositions, décisions et questions encore ouvertes sont distinguées dans [le document de suivi](choix-et-questions-ouvertes.md).
 
 ## 00:00:00–00:10:00
 
