@@ -8,6 +8,18 @@
 
 > Transcription assistée par reconnaissance vocale, relue sur les principaux thèmes et décisions. Les prénoms sont attribués à partir de la voix et des échanges explicites. « Voix incertaine » signale une attribution insuffisamment sûre. Les chevauchements, termes techniques et passages très brefs demandent une vérification dans l’enregistrement avant toute citation littérale.
 
+## Résumé concret de la réunion
+
+- **Entraînements :** introduire le contact progressivement (équipement, gestes, blocage, plaquage contrôlé). Réduire les agility drills à environ 5–10 minutes pour consacrer plus de temps au travail par poste, aux situations de jeu et à de courtes séquences de special teams. Leur démarrage est visé pour le **15 octobre** ; le référent reste à désigner.
+- **Préparation sportive :** chaque coach doit lister, pour son poste, les acquis indispensables avant le premier match, ce qui doit être répété et ce qui peut attendre. Préparer un premier depth chart en attaque et en défense à partir des entraînements, puis le faire évoluer. Le vocal ne fixe pas de plans détaillés par poste.
+- **Cohérence des consignes :** arrêter entre responsables une protection de passe simple et commune pour la ligne, le RB et le QB ; clarifier l’autonomie de Franck sur l’attaque ; harmoniser les consignes données aux DB par Greg, Serge et Antoine. Ces points restent ouverts à la fin de l’appel.
+- **Juniors et Seniors :** Franck et Stéphane doivent comparer formations et appels de base. Une séance commune mensuelle est envisagée, avec un premier essai le **16 octobre** ; date, horaire et encadrement du contact demandent confirmation des deux staffs. La participation d’un Junior aux Seniors se décide au cas par cas.
+- **Camp Seniors–Juniors :** projet d’un week-end avec ateliers par poste, moment commun et éventuel match amical. Aucun week-end, lieu, adversaire ou budget n’est arrêté ; vérifier d’abord calendrier, disponibilités et transport.
+- **Journée familiale du 25 octobre :** proposer un mini-tournoi de flag avant la diffusion du match, puis permettre une inscription individuelle pour jouer, regarder et/ou manger. Les organisateurs pourraient composer les équipes. Formule, repas, horaires et couverture des non-licenciés restent à valider avant l’annonce.
+- **Communication du staff :** réserver un espace aux informations utiles aux coachs, consigner les arbitrages techniques et transmettre ensuite une consigne commune aux joueurs. Jean-Mathieu a été sollicité pour créer ce groupe.
+
+Pour une version courte destinée aux coachs, voir [la synthèse](synthese-coachs.md). Les propositions, décisions et questions encore ouvertes sont distinguées dans [le document de suivi](choix-et-questions-ouvertes.md).
+
 ## 00:00:00–00:10:00
 
 **[00:00:00] Jean-Mathieu :** Ils ont le droit à trois entraînements gratuits et je pense qu'un entraînement sur trois, il devrait y avoir ne plus qu'un peu de contact, pas spécialement fort ou intense, je ne demande pas un Oklahoma ou quoi, mais ne plus qu'un petit Titan, que les gens puissent eux mettre un plaquage pour se rendre compte que casques et épaulières, eux, on se rend dedans parce qu'après trois entraînements, ils vont signer et puis là, début octobre, on va mettre les casques et épaulières et ils vont se prendre les vrais premiers contacts et je ne sais pas si par exemple des mecs comme Thomas, ou Marvin vont rester alors qu'ils auront payé leur cotisation, ils se sont dit, enfin bref, ils n'ont pas vu la partie d'un centre du tackle quoi.
